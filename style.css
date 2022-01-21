@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(248, 241, 142);
+    color:blueviolet;
+}
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+  
+.name_of_object{
+    font-size: 30px;
+   color:black;
+}
+
+#result_object_name,#result_object_accuracy{
+color:blue;
+
+}
